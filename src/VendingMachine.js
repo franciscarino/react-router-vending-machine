@@ -5,7 +5,7 @@ import Halibut from "./Halibut";
 import Salmon from "./Salmon";
 import Home from "./Home";
 
-
+//TODO: Separate routes list component
 
 function VendingMachine() {
   return (
